@@ -15,7 +15,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: right;
+  float: left;
 
   &,
   &:visited {
@@ -24,7 +24,7 @@
 }
 
 .site-nav {
-  float: left;
+  float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
