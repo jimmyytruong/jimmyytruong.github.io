@@ -1,10 +1,10 @@
 ---
 layout: home
-title: 
+title:  
 permalink: /
 ---
 
-
+# Welcome to my blog!
 
 ## Hello Stranger,
 
