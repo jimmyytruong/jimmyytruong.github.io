@@ -1,0 +1,18 @@
+                            
+Developer & Designer: Jimmy Truong
+                      
+Site: jimmyytruong@gmail.com
+                            
+Twitter: @truongJimpan
+                            
+Location: Linköping, Sweden.				
+							
+Name: Jimmy Truong
+                            
+Last update: 2019/11/17 
+                       
+Standards: HTML5, CSS3, Javascript
+                       
+Components: Jekyll
+                  
+Software: Visual Studio Code
