@@ -9,3 +9,4 @@ image: http://ogp.me/logo.png
 
 Open Graph is a technology that was introduced by FaceBook back in 2010. It allows integration between Facebook and its user data and a website. By integrating Open Graph meta tags into your page's content, you can identify which elements of your page you want to show when someone share's your page.
 
+Open graph is the thing to use if you want to have control over how your website is presented on social media. 
