@@ -10,3 +10,7 @@ image: http://ogp.me/logo.png
 There are pros and cons to almost everything and Static site generators are no exception. Static Site Generators provides compiled file to the browser that cuts the loading time by a large scale. Since there are no backend, the site can be hosted on a CDN (Content Delievery Network). There are also no database, so less cost and less maintenance. Also, free hosting on Github is a big thumbs up!
 
 A static site generator can't have all the features that **dynammic sites** could have.
+
+What type of projects are SSG suitable for?
+
+Static site generators are more suitable for blogs. It really comes down to if dynamic content should be implemented or not. If so, static site generator is probably not the best solution. 
