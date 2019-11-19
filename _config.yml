@@ -13,13 +13,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jimmy Truong
-email: jimmyytruong@gmail.com
+email: jt222sg@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog where I answer some questions about pre-compiled CSS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: My Twitter
-github_username:  My Github
+twitter_username: Follow me on twitter!
+github_username:  Check out my projects on github!
 
 # Build settings
 markdown: kramdown
