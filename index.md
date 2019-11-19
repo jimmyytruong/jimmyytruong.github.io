@@ -1,10 +1,10 @@
 ---
-layout: page 
-title: 
+layout: default
+title: Welcome to my blog!
 permalink: /
 ---
 
-# Welcome to my blog!
+
 
 ## Hello Stranger,
 
